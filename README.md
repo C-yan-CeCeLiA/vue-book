@@ -24,3 +24,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # vue-book
 使用vue框架
 >>>>>>> a19efb24ed062e3a7a794400a7046cb6fee75bda
+
+mock文件夹的内容为服务端内容。
