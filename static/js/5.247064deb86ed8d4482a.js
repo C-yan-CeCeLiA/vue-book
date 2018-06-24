@@ -1,0 +1,2 @@
+webpackJsonp([5],{Ovkt:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  收藏\n")])},staticRenderFns:[]},l=t("VU/8")({name:"collection",data:function(){return{}}},r,!1,null,null,null);n.default=l.exports}});
+//# sourceMappingURL=5.247064deb86ed8d4482a.js.map
