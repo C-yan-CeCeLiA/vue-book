@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuebook
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-book
+使用vue框架
+>>>>>>> a19efb24ed062e3a7a794400a7046cb6fee75bda
